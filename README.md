@@ -1,6 +1,6 @@
 ## Hello, everybody! :wink:
 
-- :mortar_board: Estudante de Desenvolvimento de Sistemas Etec Registro
+- :mortar_board: Estudante de Desenvolvimento de Sistemas 
 - :computer: Técnico em Desenvolmento de Sistemas
 - :purple_heart: Apaixonada por Webdesign
 <hr>
